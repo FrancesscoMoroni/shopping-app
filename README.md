@@ -22,3 +22,6 @@ Learning the React Native framework and developing mobile app development skills
 - connect to barcode database
 
 ## Gallery
+![Screenshot of app](/gallery/App.jpg)
+
+![Screenshot of item dialog](/gallery/AddDialog.jpg)
