@@ -1,0 +1,34 @@
+{
+    "en": {
+      "translation": {
+        "Title": "Shopping app",
+        "AddButton": "Add",
+        "EditButton": "Edit",
+        "DeleteButton": "Delete",
+        "PieceShortcut": "pc.",
+        "Camera": "Camera",
+        "Close": "Close",
+        "AddDialogHeader": "Add Grocery",
+        "EditDialogHeader": "Edit Grocery",
+        "Name": "Name",
+        "Amount": "Amount",
+        "Barcode": "Barcode"
+      }
+    },
+    "pl": {
+      "translation": {
+        "Title": "Lista zakupów",
+        "AddButton": "Dodaj",
+        "EditButton": "Edytuj",
+        "DeleteButton": "Usuń",
+        "PieceShortcut": "szt.",
+        "Camera": "Aparat",
+        "Close": "Zamknij",
+        "AddDialogHeader": "Dodaj produkt",
+        "EditDialogHeader": "Edytuj produkt",
+        "Name": "Nazwa",
+        "Amount": "Ilość",
+        "Barcode": "Kod kreskowy"
+      }
+    }
+}
